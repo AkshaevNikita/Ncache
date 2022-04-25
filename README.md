@@ -21,7 +21,7 @@ NCache разработан на Java, C#, .Net, .Net Core.
 NCache доступен в версиях с Open-source, Enterprise и Community Editions, локально и в облаке, с .NET, .NET Core и Java клиентами.
 Также можно развертывать Ncache в docker контейнере.
 
-# Запросы, работа с базой данных.
+# Работа с базой данных.
 
 NCache поддерживает SQL-подобный синтаксис запросов и LINQ  для поиска в кеше.
 
