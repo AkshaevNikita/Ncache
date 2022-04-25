@@ -3,6 +3,7 @@
 NCache - key-value хранилище данных с открытым исходным кодом. Ncache является лидером распределенного кэширования для приложений .NET.
 
 [Официальный сайт NCache]
+[Документация NCache]
 
 
 # Инструменты для взаимодействия с Ncache
@@ -11,3 +12,4 @@ NCache доступен в версиях с Open-source, Enterprise и Communit
 
 
 [Официальный сайт NCache]:https://www.alachisoft.com/
+[Документация NCache]:https://www.alachisoft.com/resources/docs/#ncache
