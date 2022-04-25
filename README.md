@@ -8,7 +8,7 @@ NCache - key-value хранилище данных с открытым исхо�
 
 Рейтинг key-value хранилищ по версии сайта [db-engines.com](https://db-engines.com) выгляядит следующим образом:
 
-![alt text](https://github.com/AkshaevNikita/Ncache/blob/main/ranking.jpg?raw=true)
+![alt text](https://github.com/AkshaevNikita/Ncache/blob/main/ranking.png?raw=true)
 
 
 
