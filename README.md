@@ -195,4 +195,14 @@ NCache обеспечивает безопасность благодаря вс
 
 # Авторы NCache.
 
-NCache разрабатывает компания Alachisoft, коммиты могут оставлять [тут](https://github.com/Alachisoft/NCache) 12 человек, большинство из которых из Индии.
+NCache разрабатывает компания Alachisoft, коммиты могут оставлять [тут](https://github.com/Alachisoft/NCache) 12 человек, большинство которых из Индии.
+
+### Sample data
+
+Образцы демобазы можно найти по [ссылке](https://www.alachisoft.com/resources/samples/)
+
+# Где можно пройти обучение?
+
+Обучение можно пройти на [Ютуб-канале](https://www.youtube.com/c/NCache/featured), здесь же можно следить за обновлениями и т.д.
+
+Также у NCache очень удобная [документация](https://www.alachisoft.com/resources/docs/), написанная простым языком.
