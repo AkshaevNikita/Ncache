@@ -103,3 +103,11 @@ NCache сохраняет DateTime индекс срока действия дл
 - Абсолютный срок действия
 - Скользящий срок действия
 
+
+[Сайт, где можно посмотреть, как создавать индексы](https://www.alachisoft.com/resources/docs/ncache/admin-guide/configure-query-index.html)
+
+![alt text](https://github.com/AkshaevNikita/Ncache/blob/main/indexes1.png?raw=true)
+
+![alt text](https://github.com/AkshaevNikita/Ncache/blob/main/indexes2.png?raw=true)
+
+![alt text](https://github.com/AkshaevNikita/Ncache/blob/main/indexes3.png?raw=true)
